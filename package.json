@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/EkaGontsova/node#readme",
+  "bugs": {
+    "url": "https://github.com/EkaGontsova/node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EkaGontsova/node.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@ekagontsova/ajs": "^1.0.0"
+  }
+}
